@@ -1,0 +1,4 @@
+udemy:
+  client:
+    address:
+      url: https://localhost:8082/addresses
