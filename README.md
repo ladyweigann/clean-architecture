@@ -5,6 +5,8 @@
 ### ⚒️ Tools and Technologies
 - Java 
 - Spring Boot 
+- MapStruct
+- Lombok
 - MongoDB 
 - Kafka
 
